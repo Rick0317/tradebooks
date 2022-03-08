@@ -24,13 +24,13 @@ Things you may want to cover:
 * ...
 
 # User
-| user     | type            |         |
-| -------- | --------------- | ------- |
+| user     | type            |                    |
+| -------- | --------------- | ------------------ |
 | username | string          | null: false        |
-| grade    | integer         |         |
+| grade    | integer         |                    |
 | email    | string          | null: false        |
 | profile  | text            | null: false        |
-| major    | integer         |         |
+| major    | integer         |                    |
 
 # Associations
 has_many: books
